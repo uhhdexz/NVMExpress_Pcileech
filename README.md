@@ -4,20 +4,12 @@
 
 <p><strong>Compact 75T NVMe FPGA project with a cleaned workflow, structured build inputs, and engineering-style runtime documentation.</strong></p>
 
-[![Discord](https://img.shields.io/badge/Discord-Moer2831-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sXcQhxa8qy)
-[![Community](https://img.shields.io/badge/Community-Join%20Server-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sXcQhxa8qy)
-[![Chinese](https://img.shields.io/badge/Docs-%E4%B8%AD%E6%96%87-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](./README.zh-CN.md)
-
 ![Platform](https://img.shields.io/badge/Platform-Artix--7%2075T-111827?style=flat-square)
 ![Protocol](https://img.shields.io/badge/Protocol-NVMe-065F46?style=flat-square)
 ![Toolchain](https://img.shields.io/badge/Toolchain-Vivado-B45309?style=flat-square)
 ![Pipeline](https://img.shields.io/badge/Pipeline-build__inputs-1D4ED8?style=flat-square)
 
 </div>
-
-> Contact: [Moer2831](https://particledma.top/)  
-> Community: [Particle DMA](https://particledma.top/)  
-> Language: [English](./README.md) | [中文](./README.zh-CN.md)
 
 ## Snapshot
 
